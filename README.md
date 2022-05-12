@@ -1,4 +1,20 @@
-### Hi there 👋
+## Hi there 👋
+
+![js](https://img.shields.io/badge/JavaScript-%E2%9D%A4-yellowgreen)
+![ts](https://img.shields.io/badge/TypeScript-%E2%9D%A4-brightgreen)
+![vue](https://img.shields.io/badge/Vue-%E2%9D%A4-orange)
+![nuxt](https://img.shields.io/badge/Nuxt-%E2%9D%A4-lightgrey)
+![express](https://img.shields.io/badge/Express-%E2%9D%A4-green)
+![koa](https://img.shields.io/badge/Koa-%E2%9D%A4-red)
+![nestjs](https://img.shields.io/badge/Nestjs-%E2%9D%A4-blue)
+
+[![Joanor's GitHub stats](https://github-readme-stats.vercel.app/api?username=joanor&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joanor&repo=Ivy)](https://github.com/joanor/Ivy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joanor&repo=lottery)](https://github.com/joanor/lottery)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joanor&repo=wx-jumbo)](https://github.com/joanor/wx-jumbo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joanor&repo=weather-widget)](https://github.com/joanor/weather-widget) -->
+
 
 <!--
 **joanor/joanor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
