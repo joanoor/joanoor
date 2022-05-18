@@ -5,9 +5,9 @@
 ![vue](https://img.shields.io/badge/Vue-%E2%9D%A4-orange)
 ![nuxt](https://img.shields.io/badge/Nuxt-%E2%9D%A4-lightgrey)
 ![express](https://img.shields.io/badge/Express-%E2%9D%A4-green)
-![koa](https://img.shields.io/badge/Koa-%E2%9D%A4-red)
-![nestjs](https://img.shields.io/badge/Nestjs-%E2%9D%A4-blue)
-
+<!-- ![koa](https://img.shields.io/badge/Koa-%E2%9D%A4-red)
+![nestjs](https://img.shields.io/badge/Nestjs-%E2%9D%A4-blue) -->
+<!-- ![visitor](https://visitor-badge.laobi.icu/badge?page_id=joanor.joanor) -->
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -28,4 +28,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joanor&repo=lottery)](https://github.com/joanor/lottery)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joanor&repo=wx-jumbo)](https://github.com/joanor/wx-jumbo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joanor&repo=weather-widget)](https://github.com/joanor/weather-widget) -->
-
